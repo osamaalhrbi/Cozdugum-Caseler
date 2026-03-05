@@ -148,3 +148,13 @@ https://github.com/alicanyucel/AngularDragDrogAp
 https://github.com/alicanyucel/FlutterFireBaseCrud
 https://github.com/alicanyucel/FirebaseAuthenticationReactNative
 https://github.com/alicanyucel/AlicanSonCase
+
+39)Insula Enerji
+https://github.com/alicanyucel/AnyDeskAdvanced
+
+40)Larinsoft
+https://github.com/alicanyucel/adresdefterilarinsoft
+https://github.com/alicanyucel/Angular_AdresDefteri
+https://github.com/alicanyucel/net-core-mvc-adres-defteri
+
+
